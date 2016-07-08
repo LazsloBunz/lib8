@@ -1,0 +1,14 @@
+markdown: kramdown
+highlighter: rouge
+permalink: "/:title"
+url: LazsloBunz.github.io
+baseurl: "/lib8"
+redcarpet:
+  extensions:
+  - strikethrough
+  - tables
+sass:
+  sass_dir: public/css
+  style: :compressed
+github_username: LazsloBunz
+theme: brume
